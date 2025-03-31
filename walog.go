@@ -1,6 +1,6 @@
 // walog by suirosu exgaya epowsal wlb iwlb@outlook.com exgaya@gmail.com 20241230;
 
-package imap
+package walog
 
 import (
 	"bufio"
